@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="default_red_ff3c2f">#FF3C2F</color>
+    <color name="default_black_title_333333">#333333</color>
+    <color name="default_gray_desc_666666">#333333</color>
+    <color name="default_gray_hint_999999">#999999</color>
+    <color name="default_line_dddddd">#dddddd</color>
+    <color name="default_btn_pressed">@color/default_red_ff3c2f</color>
+    <color name="default_btn_normal">#CC3025</color>
+    <color name="default_btn_disable">@color/default_line_dddddd</color>
+</resources>

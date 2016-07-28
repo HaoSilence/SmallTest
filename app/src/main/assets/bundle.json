@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0",
+  "bundles": [
+    {
+      "uri": "main",
+      "pkg": "com.xiaofuquan.android.toc.app.main"
+    },
+    {
+      "uri": "shop",
+      "pkg": "com.xiaofuquan.android.toc.app.shop",
+      "rules": {
+        "goods": ".activity.ProdDetail"
+      }
+    },
+    {
+      "uri": "lib.base",
+      "pkg": "com.xiaofuquan.toc.lib.base"
+    },
+    {
+      "uri": "lib.volley",
+      "pkg": "com.xiaofuquan.lib.volley"
+    },
+    {
+      "uri": "lib.style",
+      "pkg": "com.xiaofuquan.android.toc.lib.style"
+    }
+  ]
+}

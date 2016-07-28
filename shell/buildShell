@@ -1,0 +1,4 @@
+./gradlew cleanLib
+./gradlew cleanBundle
+./gradlew buildLib
+./gradlew buildBundle
